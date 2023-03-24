@@ -4,7 +4,7 @@
 
 [Dataset Creation](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/Dataset%20Creation)
 
-[Dataset Normalization](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
+[Dataset Normalization](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/Dataset%20Normalization)
 
 [Code Revision](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
 
