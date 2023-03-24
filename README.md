@@ -1,13 +1,13 @@
 # NaturalLanguageProcessing
 
-[hw0](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
+[Project Description](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
 
-[hw1](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
+[Dataset Creation](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
 
-[hw2](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
+[Dataset Normalization](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
 
-[hw3](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
+[Code Revision](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
 
-[hw4](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
+[Embeddings of data set](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
 
-[group-project](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
+[Final Project](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
