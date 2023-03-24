@@ -1,6 +1,6 @@
 # NaturalLanguageProcessing
 
-[Project Description](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
+[Project Description](https://github.com/Gewles/NaturalLanguageProcessing/blob/main/Project%20Description/Project%20Description.md)
 
 [Dataset Creation](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
 
