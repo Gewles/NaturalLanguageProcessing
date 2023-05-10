@@ -6,8 +6,5 @@
 
 [Dataset Normalization](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/Dataset%20Normalization)
 
-[Code Revision](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
 
-[Embeddings of data set](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
-
-[Final Project](https://github.com/Gewles/NaturalLanguageProcessing/tree/main/hw0)
+[Final Project](https://github.com/Gewles/NaturalLanguageProcessing/blob/main/finalproject/Scam%20Reduction%20Analysis%20-%20Lewis_Final_Project.pdf)
